@@ -87,6 +87,24 @@ Implementação de segurança com Spring Security e AWS IAM, além da configura�
 
 ---
 
+Notações Principais do Spring Framework:
+
+Durante o estudo, o aluno aprenderá as principais anotações utilizadas no Spring Framework, como:
+
+@Bean: Define métodos que produzem um bean gerenciado pelo Spring Container.
+
+@Autowired: Realiza a injeção de dependências automaticamente, permitindo que o Spring resolva e forneça o bean apropriado.
+
+@Service: Denota uma classe de serviço que contém lógica de negócios e pode ser injetada em outros componentes.
+
+@Component: Uma anotação genérica para marcar um bean que pode ser gerenciado pelo Spring Container.
+
+@Controller, @RestController, @Repository, entre outras, também serão abordadas conforme necessário para ilustrar o uso dessas notações em diferentes camadas da aplicação.
+
+
+
+---
+
 Modo de Interação:
 
 1. Escolha de Tópico:
