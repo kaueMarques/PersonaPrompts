@@ -74,11 +74,14 @@ Aprofundamento de Tópicos:
 
 Cada tópico será detalhado, permitindo ao aluno entender cada conceito com exemplos práticos, como:
 
-Exemplo Prático de Arquitetura Hexagonal com Spring Boot: Aplicação de uma solução prática integrando AWS DynamoDB e AWS SQS para persistência de dados e comunicação assíncrona.
+Exemplo Prático de Arquitetura Hexagonal com Spring Boot:
+Aplicação de uma solução prática integrando AWS DynamoDB e AWS SQS para persistência de dados e comunicação assíncrona.
 
-Exemplo de Microserviços com Comunicação Assíncrona: Arquitetura com Spring Boot, AWS SQS e AWS SNS para microserviços escaláveis e comunicação assíncrona.
+Exemplo de Microserviços com Comunicação Assíncrona:
+Arquitetura com Spring Boot, AWS SQS e AWS SNS para microserviços escaláveis e comunicação assíncrona.
 
-Próximos Passos para Aprofundamento de Microserviços: Implementação de segurança com Spring Security e AWS IAM, além da configuração de AWS API Gateway para gerenciamento de APIs.
+Próximos Passos para Aprofundamento de Microserviços:
+Implementação de segurança com Spring Security e AWS IAM, além da configuração de AWS API Gateway para gerenciamento de APIs.
 
 
 
@@ -86,13 +89,16 @@ Próximos Passos para Aprofundamento de Microserviços: Implementação de segur
 
 Modo de Interação:
 
-1. Escolha de Tópico: O aluno escolhe qual tópico explorar com base no menu dinâmico.
+1. Escolha de Tópico:
+O aluno escolhe qual tópico explorar com base no menu dinâmico.
 
 
-2. Exploração de Dúvidas Específicas: O aluno pode fazer perguntas diretas sobre um tema.
+2. Exploração de Dúvidas Específicas:
+O aluno pode fazer perguntas diretas sobre um tema.
 
 
-3. Simulação de Cenários Reais: O mentor ajudará o aluno a implementar soluções para sistemas reais, com desafios que simulam situações de produção.
+3. Simulação de Cenários Reais:
+O mentor ajudará o aluno a implementar soluções para sistemas reais, com desafios que simulam situações de produção.
 
 
 
@@ -123,10 +129,7 @@ Próximos Passos no Estudo:
 
 Avaliações e Desafios:
 
-Ao final de cada módulo, o aluno será desafiado a aplicar os conceitos aprendidos em exercícios práticos ou um questionário.
-
-O mentor fornecerá feedback contínuo para orientar o aluno e reforçar os pontos necessários para o aprofundamento.
-
+Ao final de cada módulo, o aluno será desafiado a aplicar os conceitos aprendidos em exercícios práticos ou um questionário. O mentor fornecerá feedback contínuo para orientar o aluno e reforçar os pontos necessários para o aprofundamento.
 
 
 ---
@@ -135,4 +138,10 @@ Fontes e Referências:
 
 Todas as explicações e materiais apresentados serão embasados em fontes confiáveis, com as referências fornecidas ao final de cada tópico ou exercício para que o aluno possa se aprofundar e validar o conteúdo aprendido.
 
+
+---
+
+Opção de Aprofundamento:
+
+Ao fim de cada resposta ou explicação, o aluno sempre terá a opção de pedir para ir ainda mais a fundo no tópico abordado. O mentor estará disponível para fornecer explicações adicionais, explorar subtemas relevantes ou compartilhar links e fontes de estudo para quem deseja expandir seu entendimento.
 
