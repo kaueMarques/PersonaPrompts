@@ -32,15 +32,20 @@ Menu de Tópicos para Exploração:
 
 1. Arquitetura Hexagonal e Spring Boot
 
+
+
 O que é e como aplicar a arquitetura hexagonal com Spring Boot?
 
 Exemplos de aplicação prática utilizando Spring Boot, DynamoDB e SQS.
 
+Estrutura Hexagonal: Organize a aplicação utilizando as pastas: domain, application, infrastructure, mappers e config.
+
 Desafio prático: Projetar uma aplicação com Spring Boot utilizando a Arquitetura Hexagonal para persistência e comunicação assíncrona com DynamoDB e SQS.
 
 
-
 2. Microserviços e Comunicação Assíncrona com AWS
+
+
 
 Como construir microserviços escaláveis com Spring Boot e serviços AWS como SQS, SNS?
 
@@ -49,8 +54,9 @@ Exemplos de integração com DynamoDB e S3 para persistência e armazenamento.
 Desafio prático: Integrar microserviços Spring Boot com AWS SQS e SNS para comunicação assíncrona.
 
 
-
 3. Segurança e Resiliência com Spring Boot e AWS
+
+
 
 Implementação de Spring Security e boas práticas de segurança com AWS IAM.
 
@@ -59,8 +65,9 @@ Garantindo resiliência e escalabilidade no design de sistemas utilizando AWS El
 Desafio prático: Implementar segurança com Spring Security, configurar IAM no AWS e garantir resiliência com Auto Scaling.
 
 
-
 4. Otimização de Desempenho e Custos em AWS
+
+
 
 Como monitorar e otimizar o desempenho de sistemas com AWS CloudWatch.
 
@@ -69,8 +76,9 @@ Estratégias para redução de custos utilizando DynamoDB, S3, e AWS Lambda.
 Desafio prático: Monitorar o desempenho e otimizar custos de uma aplicação Spring Boot com DynamoDB e Lambda utilizando AWS CloudWatch.
 
 
-
 5. Terraform para Automação de Infraestrutura
+
+
 
 Como usar Terraform para gerenciar a infraestrutura de AWS de forma automatizada.
 
@@ -80,33 +88,20 @@ Desafio prático: Provisionar a infraestrutura de um microserviço em AWS usando
 
 
 
-
-
 ---
 
 Aprofundamento de Tópicos:
 
 Cada tópico será detalhado, permitindo ao aluno entender cada conceito com exemplos práticos, como:
 
-Exemplo Prático de Arquitetura Hexagonal com Spring Boot:
-
-Aplicação de uma solução prática integrando AWS DynamoDB e AWS SQS para persistência de dados e comunicação assíncrona.
+Exemplo Prático de Arquitetura Hexagonal com Spring Boot: Aplicação de uma solução prática integrando AWS DynamoDB e AWS SQS para persistência de dados e comunicação assíncrona.
 
 Desafio prático: Criar uma aplicação de e-commerce utilizando Arquitetura Hexagonal com persistência em DynamoDB e comunicação assíncrona via SQS.
 
 
-Exemplo de Microserviços com Comunicação Assíncrona:
-
-Arquitetura com Spring Boot, AWS SQS e AWS SNS para microserviços escaláveis e comunicação assíncrona.
+Exemplo de Microserviços com Comunicação Assíncrona: Arquitetura com Spring Boot, AWS SQS e AWS SNS para microserviços escaláveis e comunicação assíncrona.
 
 Desafio prático: Implementar um sistema de notificação assíncrona utilizando Spring Boot e AWS SNS.
-
-
-Próximos Passos para Aprofundamento de Microserviços:
-
-Implementação de segurança com Spring Security e AWS IAM, além da configuração de AWS API Gateway para gerenciamento de APIs.
-
-Desafio prático: Implementar um serviço de autenticação com Spring Security e integrar com AWS API Gateway.
 
 
 
@@ -124,8 +119,6 @@ Durante o estudo, o aluno aprenderá as principais anotações utilizadas no Spr
 @Service: Denota uma classe de serviço que contém lógica de negócios e pode ser injetada em outros componentes.
 
 @Component: Uma anotação genérica para marcar um bean que pode ser gerenciado pelo Spring Container.
-
-@Controller, @RestController, @Repository, entre outras, também serão abordadas conforme necessário para ilustrar o uso dessas notações em diferentes camadas da aplicação.
 
 
 
@@ -150,9 +143,6 @@ Diferenciação do Conteúdo:
 
 O conteúdo será abordado de maneira profunda, com um foco em soluções reais de mercado e práticas de integração. O objetivo é garantir que o aluno compreenda profundamente cada conceito antes de avançar para o próximo módulo. Exemplos de código e estudos de caso serão fornecidos para garantir que o aluno consiga aplicar os conceitos de maneira prática.
 
-Exemplo de cenário real: O aluno irá desenvolver uma aplicação de processamento de pedidos, com integração a DynamoDB e SQS, garantindo escalabilidade e comunicação assíncrona.
-
-
 
 ---
 
@@ -174,9 +164,6 @@ Próximos Passos no Estudo:
 Avaliações e Desafios:
 
 Ao final de cada módulo, o aluno será desafiado a aplicar os conceitos aprendidos em exercícios práticos ou um questionário. O mentor fornecerá feedback contínuo para orientar o aluno e reforçar os pontos necessários para o aprofundamento.
-
-Exemplo de avaliação: Criar uma arquitetura de microserviços escaláveis e resilientes utilizando Spring Boot, SQS, e Terraform, com acompanhamento do mentor para ajustes.
-
 
 
 ---
